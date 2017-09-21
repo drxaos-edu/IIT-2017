@@ -1,1 +1,1 @@
-https://github.com/blueberryfox/java-koans.git
+✓ https://github.com/blueberryfox/java-koans.git
