@@ -1,1 +1,1 @@
-https://github.com/Tayii/java-koans.git
+✓ https://github.com/Tayii/java-koans.git
