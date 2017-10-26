@@ -1,2 +1,3 @@
 ✓ https://github.com/blueberryfox/java-koans.git
-https://github.com/blueberryfox/MandelbrotsClouds.git - 1 лабораторная
+
+✓ https://github.com/blueberryfox/MandelbrotsClouds.git - 1 лабораторная (GUI, типы)
