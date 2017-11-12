@@ -1,2 +1,3 @@
 https://github.com/Tayii/java-koans.git
 https://github.com/Tayii/Java-Topology.git - рисование карты высот
+https://github.com/Tayii/Java-GUI-Pattern.git - GUI, применение паттерна "Абстрактная фабрика"
