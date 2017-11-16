@@ -4,4 +4,4 @@
 
 ✓ https://github.com/blueberryfox/Sorts.git - синтаксис, логирование, профилирование
 
-✓ https://github.com/blueberryfox/JavaChat.git - сеть, GUI, исключения, потоки ввода-вывода
+✓ https://github.com/blueberryfox/JavaChat.git - сеть, GUI, исключения, потоки ввода-вывода, многопоточность
