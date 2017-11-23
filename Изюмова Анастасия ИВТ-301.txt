@@ -1,3 +1,7 @@
 ✓ https://github.com/blueberryfox/java-koans.git
 
-✓ https://github.com/blueberryfox/MandelbrotsClouds.git - 1 лабораторная (GUI, типы)
+✓ https://github.com/blueberryfox/MandelbrotsClouds.git - 1 лабораторная (GUI, типы), мультимедиа
+
+✓ https://github.com/blueberryfox/Sorts.git - синтаксис, логирование, профилирование
+
+✓ https://github.com/blueberryfox/JavaChat.git - сеть, GUI, исключения, потоки ввода-вывода, многопоточность
