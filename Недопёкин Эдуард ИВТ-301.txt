@@ -2,3 +2,5 @@
 ✓ https://github.com/Tayii/Java-Topology.git - рисование карты высот
 ✓ https://github.com/Tayii/Java-GUI-Pattern.git - GUI, применение паттерна "Абстрактная фабрика"
 ✓ https://github.com/Tayii/Java-TCP-Chat.git - чат на сокетах
+✓ семестровая
+
