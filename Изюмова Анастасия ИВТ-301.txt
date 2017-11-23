@@ -5,3 +5,4 @@
 ✓ https://github.com/blueberryfox/Sorts.git - синтаксис, логирование, профилирование
 
 ✓ https://github.com/blueberryfox/JavaChat.git - сеть, GUI, исключения, потоки ввода-вывода, многопоточность
+https://github.com/blueberryfox/GenericJavaBinaryTree.git - jvm языки, синтаксис, ООП, дженерики, java.util
