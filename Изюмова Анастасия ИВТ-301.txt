@@ -7,9 +7,9 @@
 ✓ https://github.com/blueberryfox/JavaChat.git - сеть, GUI, исключения, потоки ввода-вывода, многопоточность + лямбда-выражения(новое)
 
 ✓ https://github.com/blueberryfox/GenericJavaBinaryTree.git - jvm языки, синтаксис, ООП, дженерики, java.util
-https://github.com/blueberryfox/parserAPI - сеть, сборка, библиотека, сериализация
-https://github.com/blueberryfox/IoCExample - сборка, IoC
-https://github.com/blueberryfox/FactoryMethodExample - тестирование, паттерны, Garbage Collector, работа с файлами, сборка
-https://github.com/blueberryfox/WebServer - сеть, веб-сервер(самописный)
+✓ https://github.com/blueberryfox/parserAPI - сеть, сборка, библиотека, сериализация
+✓ https://github.com/blueberryfox/IoCExample - сборка, IoC
+✓ https://github.com/blueberryfox/FactoryMethodExample - тестирование, паттерны, Garbage Collector, работа с файлами, сборка
+✓ https://github.com/blueberryfox/WebServer - сеть, веб-сервер(самописный)
 
 
