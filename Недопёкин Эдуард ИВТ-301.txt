@@ -1,6 +1,18 @@
-✓ https://github.com/Tayii/java-koans.git
-✓ https://github.com/Tayii/Java-Topology.git - рисование карты высот
-✓ https://github.com/Tayii/Java-GUI-Pattern.git - GUI, применение паттерна "Абстрактная фабрика"
-✓ https://github.com/Tayii/Java-TCP-Chat.git - чат на сокетах
+
+✓ https://github.com/Tayii/java-koans
+✓ https://github.com/Tayii/Java-Topology - рисование карты высот
+(темы: синтаксис, типы данных, мультимедиа)
+✓ https://github.com/Tayii/Java-GUI-Pattern - GUI, применение паттерна "Абстрактная фабрика"
+(темы: ООП, GUI, паттерны)
+✓ https://github.com/Tayii/Java-TCP-Chat - чат на сокетах
+(темы: исключения, многопоточность, сеть, потоки ввода-вывода, java.util-регулярки, логирование, лямбды)
+https://github.com/Tayii/Java-HTTP-Server - простейший сервер
+(темы: веб-сервер, json, библиотеки, сборка-Maven, БД, работа с файловой системой, сборщик мусора)
+https://github.com/Tayii/Java-Stack-Spring - реализация стека
+(темы: фреймворк, Inversion of Control, дженерики, тестирование)
+https://github.com/Tayii/Java-Queue-Kotlin - реализация очереди
+(темы: jvm-языки)
+https://github.com/Tayii/Java-Calculator-Jetty - сервлет-калькулятор
+(темы: веб-сервлеты)
 ✓ семестровая
 
