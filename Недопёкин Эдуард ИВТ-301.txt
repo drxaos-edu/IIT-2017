@@ -6,13 +6,13 @@
 (темы: ООП, GUI, паттерны)
 ✓ https://github.com/Tayii/Java-TCP-Chat - чат на сокетах
 (темы: исключения, многопоточность, сеть, потоки ввода-вывода, java.util-регулярки, логирование, лямбды)
-https://github.com/Tayii/Java-HTTP-Server - простейший сервер
+✓ https://github.com/Tayii/Java-HTTP-Server - простейший сервер
 (темы: веб-сервер, json, библиотеки, сборка-Maven, БД, работа с файловой системой, сборщик мусора)
 https://github.com/Tayii/Java-Stack-Spring - реализация стека
 (темы: фреймворк, Inversion of Control, дженерики, тестирование)
-https://github.com/Tayii/Java-Queue-Kotlin - реализация очереди
-(темы: jvm-языки)
-https://github.com/Tayii/Java-Calculator-Jetty - сервлет-калькулятор
+✓ https://github.com/Tayii/Java-Queue-Kotlin - реализация очереди
+(темы: jvm-языки, дженерики)
+✓ https://github.com/Tayii/Java-Calculator-Jetty - сервлет-калькулятор
 (темы: веб-сервлеты)
 ✓ семестровая
 
