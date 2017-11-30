@@ -1,3 +1,4 @@
+
 ✓ https://github.com/Tayii/java-koans
 ✓ https://github.com/Tayii/Java-Topology - рисование карты высот
 (темы: синтаксис, типы данных, мультимедиа)
@@ -14,3 +15,4 @@ https://github.com/Tayii/Java-Queue-Kotlin - реализация очереди
 https://github.com/Tayii/Java-Calculator-Jetty - сервлет-калькулятор
 (темы: веб-сервлеты)
 ✓ семестровая
+
