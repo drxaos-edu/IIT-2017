@@ -5,3 +5,7 @@
 
 ✓ семестровая
 
+Основные темы для зачета:
+
+https://github.com/Maryoku/JavaLabs/tree/master/Multithreading/src
+5. Многопоточность (deadlock, синхронизация, обедающие философы (семафор))
