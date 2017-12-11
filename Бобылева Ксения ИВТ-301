@@ -10,6 +10,8 @@
 https://github.com/Maryoku/JavaLabs/tree/master/Syntax/src
 1. Синтаксис (Простой консольный калькулятор, числа Фиббоначи, BubbleSort)
 
+2. Типы данных
+
 https://github.com/Maryoku/JavaLabs/tree/master/OOP/src
 3. ООП (Полиморфизм - рисование фигур, настольная игра - морской бой)
 
@@ -18,3 +20,14 @@ https://github.com/Maryoku/JavaLabs/tree/master/Generics/src
 
 https://github.com/Maryoku/JavaLabs/tree/master/Multithreading/src
 5. Многопоточность (deadlock, синхронизация, обедающие философы (семафор))
+
+https://github.com/Maryoku/JavaLabs/tree/master/OOP/src/BattleShip
+6. Пользовательский интерфейс (Лаба из ООП с интерфейсом JFrame)
+
+https://github.com/Maryoku/ConsoleChat/tree/master/src
+7. Сеть (Простой консольный чат (отмечен выше))
+
+https://github.com/Maryoku/JavaLabs/tree/master/Servlet/WebApp
+8. Веб-сервлеты и контейнеры (Веб-калькулятор Eclips-Tomcat-Servlet)
+
+9. Логирование
