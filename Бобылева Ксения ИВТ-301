@@ -10,7 +10,8 @@
 ✓ https://github.com/Maryoku/JavaLabs/tree/master/Syntax/src
 1. Синтаксис (Простой консольный калькулятор, числа Фиббоначи, BubbleSort)
 
-2. Типы данных
+https://github.com/Maryoku/JavaLabs/tree/master/Types/src
+2. Типы данных (BigDecimal, потеря точности double + float, autoboxing)
 
 ✓ https://github.com/Maryoku/JavaLabs/tree/master/OOP/src
 3. ООП (Полиморфизм - рисование фигур, настольная игра - морской бой)
@@ -30,4 +31,5 @@
 ✓ https://github.com/Maryoku/JavaLabs/tree/master/Servlet/WebApp
 8. Веб-сервлеты и контейнеры (Веб-калькулятор Eclips-Tomcat-Servlet)
 
-9. Логирование
+https://github.com/Maryoku/JavaLabs/tree/master/Logging/src
+9. Логирование (Log4j, Slf4J, java.util.logging)
