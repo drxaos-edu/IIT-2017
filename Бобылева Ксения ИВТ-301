@@ -3,3 +3,33 @@
 ✓ https://github.com/Maryoku/ConsoleChat
 сеть, потоки
 
+✓ семестровая
+
+Основные темы для зачета:
+
+✓ https://github.com/Maryoku/JavaLabs/tree/master/Syntax/src
+1. Синтаксис (Простой консольный калькулятор, числа Фиббоначи, BubbleSort)
+
+✓ https://github.com/Maryoku/JavaLabs/tree/master/Types/src
+2. Типы данных (BigDecimal, потеря точности double + float, autoboxing)
+
+✓ https://github.com/Maryoku/JavaLabs/tree/master/OOP/src
+3. ООП (Полиморфизм - рисование фигур, настольная игра - морской бой)
+
+✓ https://github.com/Maryoku/JavaLabs/tree/master/Generics/src
+4. Generic (Generic class, Generic method, Wildcard)
+
+✓ https://github.com/Maryoku/JavaLabs/tree/master/Multithreading/src
+5. Многопоточность (deadlock, синхронизация, обедающие философы (семафор))
+
+✓ https://github.com/Maryoku/JavaLabs/tree/master/OOP/src/BattleShip
+6. Пользовательский интерфейс (Лаба из ООП с интерфейсом JFrame)
+
+✓ https://github.com/Maryoku/ConsoleChat/tree/master/src
+7. Сеть (Простой консольный чат (отмечен выше))
+
+✓ https://github.com/Maryoku/JavaLabs/tree/master/Servlet/WebApp
+8. Веб-сервлеты и контейнеры (Веб-калькулятор Eclips-Tomcat-Servlet)
+
+✓ https://github.com/Maryoku/JavaLabs/tree/master/Logging/src
+9. Логирование (Log4j, Slf4J, java.util.logging)
