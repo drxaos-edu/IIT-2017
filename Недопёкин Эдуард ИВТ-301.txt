@@ -16,3 +16,4 @@ https://github.com/Tayii/Java-Stack-Spring - реализация стека
 (темы: веб-сервлеты)
 ✓ семестровая
 
+зачет
