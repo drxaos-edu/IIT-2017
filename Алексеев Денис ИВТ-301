@@ -2,7 +2,19 @@
 Коаны
 
 ✓ https://github.com/MrCloudFox/SimpleChat.git
-Чат - сеть, исключения, дженерики, интерфейс
+Чат - сеть, исключения, дженерики, интерфейс, логирование, многопоточность
 
 ✓ https://github.com/MrCloudFox/CataloguerOfMusic
 Каталогизатор музыки - интерфейс, файлы
+
+https://github.com/MrCloudFox/BotSem
+✓ семестровая
+
+https://github.com/MrCloudFox/SimpleServlet
+✓ сервлеты, бд
+
+https://github.com/MrCloudFox/ConvertTask
+✓ типы данных
+
+https://github.com/MrCloudFox/FlowersShop
+✓ ООП, дженерики
