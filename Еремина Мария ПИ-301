@@ -4,8 +4,10 @@
 ✓ https://github.com/Mariyaeremina/Fifteen-Java
 GUI, ООП, синтаксис, типы данных, исключения
 
-https://github.com/Mariyaeremina/SimpleChat
-Сеть, многопоточность, GUI, исключения, логирование, лямбда
+✓ https://github.com/Mariyaeremina/SimpleChat
+Сеть, GUI, исключения, логирование, лямбда
+
+?многопоточность
 
 ✓ https://github.com/Mariyaeremina/Syntax
 синтаксис *2
@@ -16,5 +18,5 @@ https://github.com/Mariyaeremina/SingleThreadSerialization
 https://github.com/Mariyaeremina/WebServer
 веб-сервер, Kotlyn
 
-https://github.com/Mariyaeremina/SpringApp
+✓ https://github.com/Mariyaeremina/SpringApp
 веб-фреймворки, сборка (Ant), веб-сервлеты, тестирование
