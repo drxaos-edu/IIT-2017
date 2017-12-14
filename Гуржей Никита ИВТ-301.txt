@@ -1,2 +1,4 @@
 ✓ https://github.com/zeleebobo/JavaKoans
 Коаны
+
+✓ семестровая
