@@ -1,4 +1,5 @@
 ✓ https://github.com/zeleebobo/JavaKoans
 Коаны
 
-✓ семестровая
+✓ https://github.com/zeleebobo/ScheduleAPI/tree/dev
+семестровая
